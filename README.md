@@ -3,7 +3,7 @@
 Sou apaixonado por tecnologia e estou sempre me desenvolvendo. Ademais, espero que possa lhe contribuir com algum repositório útil.
 
 - 🔭 Estou estudando e colocando meus aprendizados em prática para adentrar no mercado de trabalho de desenvolvimento.
-- 🌱 Tenho conhecimento em JAVA e estou focado no momento em HTML, CSS e JavaScript.
+- 🌱 Tenho conhecimento em JAVA e estou focado no momento em HTML, CSS, JavaScript e Administrador em Salesforce.
 - 📫 Você pode me encontrar em: mts.oliveira4320@gmail.com
 - ⚡ Sou apaixonado por programação e games.
 
